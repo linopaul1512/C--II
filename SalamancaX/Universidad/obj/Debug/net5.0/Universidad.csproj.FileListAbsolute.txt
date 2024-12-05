@@ -1,0 +1,195 @@
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Universidad.exe
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Universidad.deps.json
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Universidad.runtimeconfig.json
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Universidad.runtimeconfig.dev.json
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Universidad.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\ref\Universidad.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Universidad.pdb
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Humanizer.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\obj\Debug\net5.0\Universidad.csproj.AssemblyReference.cache
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\obj\Debug\net5.0\Universidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\obj\Debug\net5.0\Universidad.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\obj\Debug\net5.0\Universidad.AssemblyInfo.cs
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\obj\Debug\net5.0\Universidad.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\obj\Debug\net5.0\Universidad.csproj.CopyComplete
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\obj\Debug\net5.0\Universidad.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\obj\Debug\net5.0\ref\Universidad.dll
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\obj\Debug\net5.0\Universidad.pdb
+C:\Users\estudiante\Documents\Mis documentos\Proyectos Cchar 2\Salamanca\Universidad\obj\Debug\net5.0\Universidad.genruntimeconfig.cache
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Universidad.exe
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Universidad.deps.json
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Universidad.runtimeconfig.json
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Universidad.runtimeconfig.dev.json
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Universidad.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Universidad.pdb
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\obj\Debug\net5.0\Universidad.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\obj\Debug\net5.0\Universidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\obj\Debug\net5.0\Universidad.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\obj\Debug\net5.0\Universidad.AssemblyInfo.cs
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\obj\Debug\net5.0\Universidad.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\obj\Debug\net5.0\Universidad.csproj.CopyComplete
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\obj\Debug\net5.0\Universidad.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\obj\Debug\net5.0\refint\Universidad.dll
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\obj\Debug\net5.0\Universidad.pdb
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\obj\Debug\net5.0\Universidad.genruntimeconfig.cache
+C:\Users\User\Desktop\Salamanca\Salamanca\Universidad\obj\Debug\net5.0\ref\Universidad.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Universidad.exe
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Universidad.deps.json
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Universidad.runtimeconfig.json
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Universidad.runtimeconfig.dev.json
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Universidad.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Universidad.pdb
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\obj\Debug\net5.0\Universidad.csproj.AssemblyReference.cache
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\obj\Debug\net5.0\Universidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\obj\Debug\net5.0\Universidad.AssemblyInfoInputs.cache
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\obj\Debug\net5.0\Universidad.AssemblyInfo.cs
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\obj\Debug\net5.0\Universidad.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\obj\Debug\net5.0\Universidad.csproj.CopyComplete
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\obj\Debug\net5.0\Universidad.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\obj\Debug\net5.0\refint\Universidad.dll
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\obj\Debug\net5.0\Universidad.pdb
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\obj\Debug\net5.0\Universidad.genruntimeconfig.cache
+C:\Users\user\Documents\C# II\SalamancaX\Universidad\obj\Debug\net5.0\ref\Universidad.dll

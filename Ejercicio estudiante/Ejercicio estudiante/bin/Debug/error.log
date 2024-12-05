@@ -1,0 +1,6 @@
+Ejercicio_estudiante.Program+ageOutofRangeException: the age cannot be less than 18 years old
+   en Ejercicio_estudiante.Program.ageOutofRangeException..ctor(Int32 x) en C:\Users\user\Documents\C# II\Ejercicio estudiante\Ejercicio estudiante\Program.cs:línea 27
+   en Ejercicio_estudiante.Program.Main(String[] args) en C:\Users\user\Documents\C# II\Ejercicio estudiante\Ejercicio estudiante\Program.cs:línea 75
+Ejercicio_estudiante.Program+ageOutofRangeException: the age cannot be less than 18 years old
+   en Ejercicio_estudiante.Program.ageOutofRangeException..ctor(Int32 x) en C:\Users\user\Documents\C# II\Ejercicio estudiante\Ejercicio estudiante\Program.cs:línea 29
+   en Ejercicio_estudiante.Program.Main(String[] args) en C:\Users\user\Documents\C# II\Ejercicio estudiante\Ejercicio estudiante\Program.cs:línea 77

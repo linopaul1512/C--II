@@ -1,0 +1,44 @@
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\bin\Debug\net5.0-windows\EjercicioDebug2.exe
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\bin\Debug\net5.0-windows\EjercicioDebug2.deps.json
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\bin\Debug\net5.0-windows\EjercicioDebug2.runtimeconfig.json
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\bin\Debug\net5.0-windows\EjercicioDebug2.runtimeconfig.dev.json
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\bin\Debug\net5.0-windows\EjercicioDebug2.dll
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\bin\Debug\net5.0-windows\ref\EjercicioDebug2.dll
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\bin\Debug\net5.0-windows\EjercicioDebug2.pdb
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.csproj.AssemblyReference.cache
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.FormListadoFlores.resources
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.csproj.GenerateResource.cache
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.AssemblyInfoInputs.cache
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.AssemblyInfo.cs
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.csproj.CopyComplete
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.dll
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\obj\Debug\net5.0-windows\ref\EjercicioDebug2.dll
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.pdb
+C:\Users\estudiante\Downloads\EjercicioDebug\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.genruntimeconfig.cache
+C:\Users\user\Documents\C# II\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.dll
+C:\Users\user\Documents\C# II\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.pdb
+C:\Users\user\Documents\C# II\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\C# II\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.FormListadoFlores.resources
+C:\Users\user\Documents\C# II\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.csproj.GenerateResource.cache
+C:\Users\user\Documents\C# II\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\C# II\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.AssemblyInfoInputs.cache
+C:\Users\user\Documents\C# II\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.AssemblyInfo.cs
+C:\Users\user\Documents\C# II\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C# II\EjercicioDebug2\bin\Debug\net5.0-windows\EjercicioDebug2.exe
+C:\Users\user\Documents\C# II\EjercicioDebug2\bin\Debug\net5.0-windows\EjercicioDebug2.deps.json
+C:\Users\user\Documents\C# II\EjercicioDebug2\bin\Debug\net5.0-windows\EjercicioDebug2.runtimeconfig.json
+C:\Users\user\Documents\C# II\EjercicioDebug2\bin\Debug\net5.0-windows\EjercicioDebug2.runtimeconfig.dev.json
+C:\Users\user\Documents\C# II\EjercicioDebug2\bin\Debug\net5.0-windows\EjercicioDebug2.dll
+C:\Users\user\Documents\C# II\EjercicioDebug2\bin\Debug\net5.0-windows\EjercicioDebug2.pdb
+C:\Users\user\Documents\C# II\EjercicioDebug2\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Documents\C# II\EjercicioDebug2\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\user\Documents\C# II\EjercicioDebug2\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\user\Documents\C# II\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.csproj.CopyComplete
+C:\Users\user\Documents\C# II\EjercicioDebug2\obj\Debug\net5.0-windows\refint\EjercicioDebug2.dll
+C:\Users\user\Documents\C# II\EjercicioDebug2\obj\Debug\net5.0-windows\EjercicioDebug2.genruntimeconfig.cache
+C:\Users\user\Documents\C# II\EjercicioDebug2\obj\Debug\net5.0-windows\ref\EjercicioDebug2.dll

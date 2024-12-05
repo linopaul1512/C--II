@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kg++vUf780y49R5H2aTuI8fJKfPKS8iwe1eoBy1va/Sg3w7a6eNMnEg8+t7TE6Ls2NecR+JyGYQ+sVFsgBFbUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\C# II\\Mascotas\\Mascotas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.text.json\\6.0.1\\system.text.json.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

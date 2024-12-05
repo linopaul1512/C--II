@@ -1,0 +1,40 @@
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\bin\Debug\net5.0\Mascotas.exe
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\bin\Debug\net5.0\Mascotas.deps.json
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\bin\Debug\net5.0\Mascotas.runtimeconfig.json
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\bin\Debug\net5.0\Mascotas.runtimeconfig.dev.json
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\bin\Debug\net5.0\Mascotas.dll
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\bin\Debug\net5.0\ref\Mascotas.dll
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\bin\Debug\net5.0\Mascotas.pdb
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\obj\Debug\net5.0\Mascotas.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\obj\Debug\net5.0\Mascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\obj\Debug\net5.0\Mascotas.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\obj\Debug\net5.0\Mascotas.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\obj\Debug\net5.0\Mascotas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\obj\Debug\net5.0\Mascotas.csproj.CopyComplete
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\obj\Debug\net5.0\Mascotas.dll
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\obj\Debug\net5.0\ref\Mascotas.dll
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\obj\Debug\net5.0\Mascotas.pdb
+C:\Users\Gabriel\source\repos\CursoCSharp2-ene2022\Mascotas\obj\Debug\net5.0\Mascotas.genruntimeconfig.cache
+C:\Users\user\Documents\C# II\Mascotas\obj\Debug\net5.0\Mascotas.dll
+C:\Users\user\Documents\C# II\Mascotas\obj\Debug\net5.0\Mascotas.pdb
+C:\Users\user\Documents\C# II\Mascotas\bin\Debug\net5.0\Mascotas.exe
+C:\Users\user\Documents\C# II\Mascotas\bin\Debug\net5.0\Mascotas.deps.json
+C:\Users\user\Documents\C# II\Mascotas\bin\Debug\net5.0\Mascotas.runtimeconfig.json
+C:\Users\user\Documents\C# II\Mascotas\bin\Debug\net5.0\Mascotas.runtimeconfig.dev.json
+C:\Users\user\Documents\C# II\Mascotas\bin\Debug\net5.0\Mascotas.dll
+C:\Users\user\Documents\C# II\Mascotas\bin\Debug\net5.0\Mascotas.pdb
+C:\Users\user\Documents\C# II\Mascotas\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Documents\C# II\Mascotas\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\user\Documents\C# II\Mascotas\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\user\Documents\C# II\Mascotas\obj\Debug\net5.0\Mascotas.csproj.AssemblyReference.cache
+C:\Users\user\Documents\C# II\Mascotas\obj\Debug\net5.0\Mascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\C# II\Mascotas\obj\Debug\net5.0\Mascotas.AssemblyInfoInputs.cache
+C:\Users\user\Documents\C# II\Mascotas\obj\Debug\net5.0\Mascotas.AssemblyInfo.cs
+C:\Users\user\Documents\C# II\Mascotas\obj\Debug\net5.0\Mascotas.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C# II\Mascotas\obj\Debug\net5.0\Mascotas.csproj.CopyComplete
+C:\Users\user\Documents\C# II\Mascotas\obj\Debug\net5.0\refint\Mascotas.dll
+C:\Users\user\Documents\C# II\Mascotas\obj\Debug\net5.0\Mascotas.genruntimeconfig.cache
+C:\Users\user\Documents\C# II\Mascotas\obj\Debug\net5.0\ref\Mascotas.dll

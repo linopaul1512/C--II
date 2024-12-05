@@ -1,0 +1,16 @@
+C:\Users\user\Documents\C# II\Guardaparques\obj\Debug\net5.0\EjercicioDebug.csproj.AssemblyReference.cache
+C:\Users\user\Documents\C# II\Guardaparques\obj\Debug\net5.0\EjercicioDebug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\C# II\Guardaparques\obj\Debug\net5.0\EjercicioDebug.AssemblyInfoInputs.cache
+C:\Users\user\Documents\C# II\Guardaparques\obj\Debug\net5.0\EjercicioDebug.AssemblyInfo.cs
+C:\Users\user\Documents\C# II\Guardaparques\obj\Debug\net5.0\EjercicioDebug.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C# II\Guardaparques\bin\Debug\net5.0\EjercicioDebug.exe
+C:\Users\user\Documents\C# II\Guardaparques\bin\Debug\net5.0\EjercicioDebug.deps.json
+C:\Users\user\Documents\C# II\Guardaparques\bin\Debug\net5.0\EjercicioDebug.runtimeconfig.json
+C:\Users\user\Documents\C# II\Guardaparques\bin\Debug\net5.0\EjercicioDebug.runtimeconfig.dev.json
+C:\Users\user\Documents\C# II\Guardaparques\bin\Debug\net5.0\EjercicioDebug.dll
+C:\Users\user\Documents\C# II\Guardaparques\bin\Debug\net5.0\EjercicioDebug.pdb
+C:\Users\user\Documents\C# II\Guardaparques\obj\Debug\net5.0\EjercicioDebug.dll
+C:\Users\user\Documents\C# II\Guardaparques\obj\Debug\net5.0\refint\EjercicioDebug.dll
+C:\Users\user\Documents\C# II\Guardaparques\obj\Debug\net5.0\EjercicioDebug.pdb
+C:\Users\user\Documents\C# II\Guardaparques\obj\Debug\net5.0\EjercicioDebug.genruntimeconfig.cache
+C:\Users\user\Documents\C# II\Guardaparques\obj\Debug\net5.0\ref\EjercicioDebug.dll

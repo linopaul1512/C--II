@@ -1,0 +1,8 @@
+C:\Users\user\Documents\C# II\Ejercicio estudiante\Ejercicio estudiante\bin\Debug\Ejercicio estudiante.exe.config
+C:\Users\user\Documents\C# II\Ejercicio estudiante\Ejercicio estudiante\bin\Debug\Ejercicio estudiante.exe
+C:\Users\user\Documents\C# II\Ejercicio estudiante\Ejercicio estudiante\bin\Debug\Ejercicio estudiante.pdb
+C:\Users\user\Documents\C# II\Ejercicio estudiante\Ejercicio estudiante\obj\Debug\Ejercicio estudiante.csproj.AssemblyReference.cache
+C:\Users\user\Documents\C# II\Ejercicio estudiante\Ejercicio estudiante\obj\Debug\Ejercicio estudiante.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\C# II\Ejercicio estudiante\Ejercicio estudiante\obj\Debug\Ejercicio estudiante.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C# II\Ejercicio estudiante\Ejercicio estudiante\obj\Debug\Ejercicio estudiante.exe
+C:\Users\user\Documents\C# II\Ejercicio estudiante\Ejercicio estudiante\obj\Debug\Ejercicio estudiante.pdb

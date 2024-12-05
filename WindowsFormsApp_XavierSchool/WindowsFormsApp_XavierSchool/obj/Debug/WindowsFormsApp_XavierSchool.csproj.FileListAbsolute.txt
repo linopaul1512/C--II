@@ -1,0 +1,66 @@
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\bin\Debug\WindowsFormsApp_XavierSchool.exe.config
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\bin\Debug\WindowsFormsApp_XavierSchool.exe
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\bin\Debug\WindowsFormsApp_XavierSchool.pdb
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.csproj.AssemblyReference.cache
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormMenu.resources
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.Properties.Resources.resources
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.csproj.GenerateResource.cache
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.exe
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.pdb
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormStudentManager.resources
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormStudentList.resources
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormProjectManager.resources
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormProjectList.resources
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormReportStudents.resources
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.csproj.CopyComplete
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormConsult.resources
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.Forms.FormAssignStudents.resources
+C:\Users\User\Documents\a\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.Forms.FormReportProjects.resources
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\bin\Debug\WindowsFormsApp_XavierSchool.exe.config
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\bin\Debug\WindowsFormsApp_XavierSchool.exe
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\bin\Debug\WindowsFormsApp_XavierSchool.pdb
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormMenu.resources
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormStudentManager.resources
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormStudentList.resources
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormProjectManager.resources
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormProjectList.resources
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormReportStudents.resources
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormConsult.resources
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.Forms.FormAssignStudents.resources
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.Forms.FormReportProjects.resources
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.Properties.Resources.resources
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.csproj.GenerateResource.cache
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.csproj.CopyComplete
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.exe
+C:\Users\User\Downloads\c#Laboratorio\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.pdb
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.csproj.AssemblyReference.cache
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormMenu.resources
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormStudentList.resources
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormProjectManager.resources
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormProjectList.resources
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormReportStudents.resources
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormConsult.resources
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.Forms.FormAssignStudents.resources
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.Forms.FormReportProjects.resources
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.Properties.Resources.resources
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.csproj.GenerateResource.cache
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.exe
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.pdb
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\bin\Debug\WindowsFormsApp_XavierSchool.exe.config
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\bin\Debug\WindowsFormsApp_XavierSchool.exe
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\bin\Debug\WindowsFormsApp_XavierSchool.pdb
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.FormStudentManagers.resources
+C:\Users\user\Documents\C# II\WindowsFormsApp_XavierSchool\WindowsFormsApp_XavierSchool\obj\Debug\WindowsFormsApp_XavierSchool.csproj.CopyComplete
